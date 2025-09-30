@@ -1,8 +1,13 @@
 # Hi, I am Arjun Singh 👋
 
+<!-- Typing Animation 1 -->
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Arjun;AI+%26+DS+Enthusiast;Full-Stack+Developer&center=true&width=500&height=50)
 
+<!-- Developer GIF -->
 ![Developer GIF](https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif)
+
+<!-- Typing Animation 2: Skills/Tech Stack -->
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Python+%7C+Java+%7C+JavaScript;React+%7C+Next.js+%7C+Django;AI+%26+DS+Enthusiast&center=true&width=500&height=50)
 
 Welcome to my GitHub profile! I am a **Final-Year B.Tech student** specializing in **AI & Data Science**, passionate about building modern web applications and exploring cutting-edge technologies.  
 
