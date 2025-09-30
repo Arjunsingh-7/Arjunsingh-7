@@ -3,8 +3,9 @@
 
 <!-- Typing SVG + GIF -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+%26+DS+Enthusiast;Full-Stack+Developer;Python+%7C+Java+%7C+JavaScript;React+%7C+Next.js+%7C+Django&center=true&width=500&height=50" alt="Typing SVG" />
+  <img src="https://raw.githubusercontent.com/Arjunsingh-7/Arjunsingh-7/main/Assets/coding.gif.gif" alt="Coder GIF" width="600"/>
 </p>
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Arjunsingh-7/Arjunsingh-7/main/Assets/coding.gif" alt="Coder GIF" width="600"/>
