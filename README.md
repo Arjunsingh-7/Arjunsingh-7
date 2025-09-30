@@ -2,10 +2,11 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Arjun;AI+%26+DS+Enthusiast;Full-Stack+Developer&center=true&width=500&height=50)
 
-![Coder GIF](https://raw.githubusercontent.com/Arjunsingh-7/Portfolio/main/Assets/coder.gif)
+<p align="center">
+  <img src="https://github.com/Arjunsingh-7/Arjunsingh-7/blob/main/Assets/coding.gif" alt="Coder GIF" width="600"/>
+</p>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Python+%7C+Java+%7C+JavaScript;React+%7C+Next.js+%7C+Django;AI+%26+DS+Enthusiast&center=true&width=500&height=50)
-
 Welcome to my GitHub profile! I am a **Final-Year B.Tech student** specializing in **AI & Data Science**, passionate about building modern web applications and exploring cutting-edge technologies.  
 
 🌐 **Portfolio:** [https://arjun-s-portfolio-site.vercel.app/](https://arjun-s-portfolio-site.vercel.app/)  
