@@ -1,5 +1,9 @@
 # Hi, I am Arjun Singh 👋
 
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi+I'm+Arjun;AI+%26+DS+Enthusiast;Full-Stack+Developer&center=true&width=500&height=50)
+
+![Developer GIF](https://media.giphy.com/media/L95W4wv8nnb9K/giphy.gif)
+
 Welcome to my GitHub profile! I am a **Final-Year B.Tech student** specializing in **AI & Data Science**, passionate about building modern web applications and exploring cutting-edge technologies.  
 
 🌐 **Portfolio:** [https://arjun-s-portfolio-site.vercel.app/](https://arjun-s-portfolio-site.vercel.app/)  
@@ -20,6 +24,7 @@ Welcome to my GitHub profile! I am a **Final-Year B.Tech student** specializing 
 ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3) 
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react) 
 ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=for-the-badge&logo=next.js) 
+![Django](https://img.shields.io/badge/-Django-333333?style=for-the-badge&logo=django) 
 
 ### Data & AI
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=for-the-badge&logo=NumPy) 
