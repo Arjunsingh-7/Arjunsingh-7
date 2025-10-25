@@ -6,21 +6,69 @@
   <img src="https://raw.githubusercontent.com/Arjunsingh-7/Arjunsingh-7/main/Assets/coding.gif.gif" alt="Coder GIF" width="600"/>
 </p>
 
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/Arjunsingh-7/Arjunsingh-7/main/Assets/coding.gif" alt="Coder GIF" width="600"/>
 </p>
 
 ---
 
+# 🚪 **GlassGate - Modern Authentication System**
+
+<div align="center">
+
+![GlassGate](https://img.shields.io/badge/GlassGate-Modern%20Auth-blue)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![EmailJS](https://img.shields.io/badge/EmailJS-Service-orange)
+
+*A stunning glass morphism authentication system with email notifications*
+
+[![Live Demo](https://img.shields.io/badge/🚀-Live_Demo-green?style=for-the-badge)](https://yourusername.github.io/glassgate-auth/)
+[![View Code](https://img.shields.io/badge/💻-View_Code-blue?style=for-the-badge)](https://github.com/Arjunsingh-7/glassgate-auth)
+
+</div>
+
+## ✨ **Project Showcase**
+
+<div align="center">
+  
+### 🎥 **Live Preview**
+![GlassGate Demo](https://via.placeholder.com/800x400/0D1117/FFFFFF?text=GlassGate+Authentication+System+Demo)
+
+</div>
+
+## 🌟 **What Makes GlassGate Special?**
+
+### 🎨 **Visual Innovation**
+- **Glass Morphism Design** - Cutting-edge frosted glass UI effects
+- **Winter Theme** - Beautiful animated snow background
+- **Smooth Animations** - Professional transitions and micro-interactions
+- **Responsive Design** - Flawless experience on all devices
+
+### 🔐 **Advanced Authentication**
+- **Complete User Flow** - Registration, Login, Password Recovery
+- **Real-time Validation** - Instant form validation with user feedback
+- **Password Strength Meter** - Visual password security indicators
+- **Local Storage** - Client-side user management system
+
+### 📧 **Smart Notifications**
+- **Welcome Emails** - Automatic email confirmation on registration
+- **Password Reset** - Secure email-based password recovery
+- **EmailJS Integration** - Professional email service without backend
+- **Fallback Handling** - Graceful degradation if email service fails
+
+---
+
 ## 👨‍💻 About Me
-Welcome to my GitHub profile! I am  Arjun Singh — a B.Tech Computer Science student specializing in Artificial Intelligence and Data Science.
+Welcome to my GitHub profile! I am Arjun Singh — a B.Tech Computer Science student specializing in Artificial Intelligence and Data Science.
 Passionate about building innovative tech solutions that combine software engineering and AI.
 Skilled in Java, Python, React.js, and MySQL, with hands-on experience in IoT and web development projects.
 Always exploring Machine Learning, Deep Learning, and Generative AI.
 
-🚀 Currently working on: Waste Wizard – a smart IoT-based waste management system
-🌱 Learning: Cloud computing & backend development 
+🚀 **Currently working on:** Waste Wizard – a smart IoT-based waste management system  
+🌱 **Learning:** Cloud computing & backend development  
+💡 **Just Built:** GlassGate - Modern Authentication System
 
 🌐 **Portfolio:** [arjun-s-portfolio-site.vercel.app](https://arjun-s-portfolio-site.vercel.app/)  
 📧 **Email:** arjunsingh792002@gmail.com  
@@ -28,48 +76,18 @@ Always exploring Machine Learning, Deep Learning, and Generative AI.
 
 ---
 
-## 🚀 Skills & Technologies
+## 🛠️ **Technical Architecture**
 
-### Programming Languages  
-![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python) 
-![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=java) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript) 
+### **Frontend Stack**
+```yaml
+Frontend:
+  - HTML5: Semantic structure & accessibility
+  - CSS3: Glass morphism, animations, responsive design
+  - JavaScript: Dynamic functionality & user interactions
+  - Font Awesome: Professional UI icons
 
-### Frontend & Web  
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5) 
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3) 
-![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react) 
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=for-the-badge&logo=next.js) 
-![Django](https://img.shields.io/badge/-Django-333333?style=for-the-badge&logo=django) 
-
-### Data & AI  
-![NumPy](https://img.shields.io/badge/-NumPy-333333?style=for-the-badge&logo=numpy) 
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas) 
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=for-the-badge) 
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=for-the-badge&logo=scikitlearn) 
-
-### Tools & Platforms  
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=for-the-badge&logo=visual-studio-code) 
-![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github) 
-![Vercel](https://img.shields.io/badge/-Vercel-333333?style=for-the-badge&logo=vercel) 
-
----
-
-## 🌟 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjunsingh-7&show_icons=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunsingh-7&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
-## 📫 Get in Touch
-
-- **Email:** arjunsingh792002@gmail.com  
-- **LinkedIn:** [Arjun Singh](https://www.linkedin.com/in/arjun-singh-2519ab280/)  
-- **Portfolio:** [arjun-s-portfolio-site.vercel.app](https://arjun-s-portfolio-site.vercel.app/)  
+Features:
+  - Backdrop-filter: Glass morphism effects
+  - CSS Grid & Flexbox: Modern layouts
+  - Local Storage API: Client-side persistence
+  - EmailJS: Email notifications
