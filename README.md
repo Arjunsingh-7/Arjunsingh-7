@@ -1,7 +1,12 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Arjun Singh 👋</h1>
 
-<!-- Coding GIF -->
+<!-- Typing SVG + GIF -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Arjunsingh-7/Arjunsingh-7/main/Assets/coding.gif.gif" alt="Coder GIF" width="600"/>
+</p>
+
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Arjunsingh-7/Arjunsingh-7/main/Assets/coding.gif" alt="Coder GIF" width="600"/>
 </p>
@@ -9,13 +14,13 @@
 ---
 
 ## 👨‍💻 About Me
-Welcome to my GitHub profile! I am **Arjun Singh, Bachelor of Technology in Computer Science** specializing in **Artificial Intelligence & Data Science**.  
-Passionate about building innovative tech solutions that combine software engineering and AI.  
-Skilled in Java, Python, React.js, and MySQL, with hands-on experience in IoT and web development projects.  
-Always exploring Machine Learning, Deep Learning, and Generative AI.  
+Welcome to my GitHub profile! I am  Arjun Singh — a B.Tech Computer Science student specializing in Artificial Intelligence and Data Science.
+Passionate about building innovative tech solutions that combine software engineering and AI.
+Skilled in Java, Python, React.js, and MySQL, with hands-on experience in IoT and web development projects.
+Always exploring Machine Learning, Deep Learning, and Generative AI.
 
-🚀 Currently working on: **Waste Wizard** – a smart IoT-based waste management system  
-🌱 Learning: Cloud computing & backend development  
+🚀 Currently working on: Waste Wizard – a smart IoT-based waste management system
+🌱 Learning: Cloud computing & backend development 
 
 🌐 **Portfolio:** [arjun-s-portfolio-site.vercel.app](https://arjun-s-portfolio-site.vercel.app/)  
 📧 **Email:** arjunsingh792002@gmail.com  
@@ -63,26 +68,8 @@ Always exploring Machine Learning, Deep Learning, and Generative AI.
 
 ---
 
-## 📊 Contributions & Activity
-
-<p align="center">
-  <!-- Contribution heatmap (last 31 days) -->
-  [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arjunsingh-7&theme=react-dark&area=true)](https://github.com/Arjunsingh-7)
-
-  <!-- GitHub streak stats -->
-  <br>
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arjunsingh-7&theme=radical)
-
-  <!-- Contribution calendar (static SVG) -->
-  <br>
-  ![Contribution Chart](https://ghchart.rshah.org/Arjunsingh-7)
-</p>
-
----
-
 ## 📫 Get in Touch
-<p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-singh-2519ab280/)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=google-chrome)](https://arjun-s-portfolio-site.vercel.app/)
-  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunsingh792002@gmail.com)
-</p>
+
+- **Email:** arjunsingh792002@gmail.com  
+- **LinkedIn:** [Arjun Singh](https://www.linkedin.com/in/arjun-singh-2519ab280/)  
+- **Portfolio:** [arjun-s-portfolio-site.vercel.app](https://arjun-s-portfolio-site.vercel.app/)  
