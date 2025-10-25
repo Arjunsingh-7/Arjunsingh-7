@@ -46,7 +46,6 @@ Always exploring Machine Learning, Deep Learning, and Generative AI.
 ![NumPy](https://img.shields.io/badge/-NumPy-333333?style=for-the-badge&logo=numpy) 
 ![Pandas](https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas) 
 ![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=for-the-badge) 
-![Scikit-learn](https://img.shields.io/badge/-Scikit--learn-333333?style=for-the-badge&logo=scikitlearn) 
 
 ### Tools & Platforms  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=for-the-badge&logo=visual-studio-code) 
