@@ -72,4 +72,32 @@ Always exploring Machine Learning, Deep Learning, and Generative AI.
 
 - **Email:** arjunsingh792002@gmail.com  
 - **LinkedIn:** [Arjun Singh](https://www.linkedin.com/in/arjun-singh-2519ab280/)  
-- **Portfolio:** [arjun-s-portfolio-site.vercel.app](https://arjun-s-portfolio-site.vercel.app/)  
+- **Portfolio:** [arjun-s-portfolio-site.vercel.app](https://arjun-s-portfolio-site.vercel.app/)
+- 
+
+## 📊 Contributions & Activity
+
+<table>
+  <tr>
+    <td align="center">
+      <!-- Activity Graph -->
+      [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arjunsingh-7&theme=react-dark&area=true)](https://github.com/Arjunsingh-7)
+      <br>Activity Graph
+    </td>
+    <td align="center">
+      <!-- GitHub Streak -->
+      ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arjunsingh-7&theme=radical)
+      <br>GitHub Streak
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <!-- Contribution Calendar -->
+      ![Contribution Chart](https://ghchart.rshah.org/Arjunsingh-7)
+      <br>Contribution Calendar
+    </td>
+  </tr>
+</table>
+
+
+
