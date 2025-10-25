@@ -75,29 +75,30 @@ Always exploring Machine Learning, Deep Learning, and Generative AI.
 - **Portfolio:** [arjun-s-portfolio-site.vercel.app](https://arjun-s-portfolio-site.vercel.app/)
 - 
 
+
+
 ## 📊 Contributions & Activity
 
-<table>
-  <tr>
-    <td align="center">
-      <!-- Activity Graph -->
-      [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arjunsingh-7&theme=react-dark&area=true)](https://github.com/Arjunsingh-7)
-      <br>Activity Graph
-    </td>
-    <td align="center">
-      <!-- GitHub Streak -->
-      ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Arjunsingh-7&theme=radical)
-      <br>GitHub Streak
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <!-- Contribution Calendar -->
-      ![Contribution Chart](https://ghchart.rshah.org/Arjunsingh-7)
-      <br>Contribution Calendar
-    </td>
-  </tr>
-</table>
+<div align="center">
 
+  <!-- Row 1: Heatmap + Streak side by side -->
+  <table>
+    <tr>
+      <td align="center" style="padding:10px;">
+        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjunsingh-7&theme=react-dark&area=true" width="400" alt="Activity Graph" />
+        <br><b>Activity Graph</b>
+      </td>
+      <td align="center" style="padding:10px;">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunsingh-7&theme=radical" width="400" alt="GitHub Streak" />
+        <br><b>GitHub Streak</b>
+      </td>
+    </tr>
+  </table>
 
+  <!-- Row 2: Full-width Contribution Calendar -->
+  <div style="margin-top:20px;">
+    <img src="https://ghchart.rshah.org/Arjunsingh-7" width="820" alt="Contribution Calendar" />
+    <br><b>Contribution Calendar</b>
+  </div>
 
+</div>
