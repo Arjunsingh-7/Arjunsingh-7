@@ -14,7 +14,7 @@
 ---
 
 ## 👨‍💻 About Me
-Welcome to my GitHub profile! I am a **Final-Year B.Tech student** specializing in **AI & Data Science**, passionate about building modern web applications and exploring cutting-edge technologies.  
+Welcome to my GitHub profile! I am Arjun Singh, Bachelor of Technology in Computer Science with a specialization in Artificial Intelligence & Data Science, passionate about building modern web applications and exploring cutting-edge technologies. 
 
 🌐 **Portfolio:** [arjun-s-portfolio-site.vercel.app](https://arjun-s-portfolio-site.vercel.app/)  
 📧 **Email:** arjunsingh792002@gmail.com  
