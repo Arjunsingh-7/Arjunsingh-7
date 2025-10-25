@@ -67,16 +67,6 @@ Always exploring Machine Learning, Deep Learning, and Generative AI.
 </p>
 
 ---
-
-## 📫 Get in Touch
-
-- **Email:** arjunsingh792002@gmail.com  
-- **LinkedIn:** [Arjun Singh](https://www.linkedin.com/in/arjun-singh-2519ab280/)  
-- **Portfolio:** [arjun-s-portfolio-site.vercel.app](https://arjun-s-portfolio-site.vercel.app/)
-- 
-
-
-
 ## 📊 Contributions & Activity
 
 <div align="center">
@@ -102,3 +92,11 @@ Always exploring Machine Learning, Deep Learning, and Generative AI.
   </div>
 
 </div>
+-------
+
+## 📫 Get in Touch
+
+- **Email:** arjunsingh792002@gmail.com  
+- **LinkedIn:** [Arjun Singh](https://www.linkedin.com/in/arjun-singh-2519ab280/)  
+- **Portfolio:** [arjun-s-portfolio-site.vercel.app](https://arjun-s-portfolio-site.vercel.app/)
+- 
