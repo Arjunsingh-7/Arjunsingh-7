@@ -14,7 +14,13 @@
 ---
 
 ## 👨‍💻 About Me
-Welcome to my GitHub profile! I am Arjun Singh, Bachelor of Technology in Computer Science with a specialization in Artificial Intelligence & Data Science, passionate about building modern web applications and exploring cutting-edge technologies. 
+Welcome to my GitHub profile! I am  Arjun Singh — a B.Tech Computer Science student specializing in Artificial Intelligence and Data Science.
+Passionate about building innovative tech solutions that combine software engineering and AI.
+Skilled in Java, Python, React.js, and MySQL, with hands-on experience in IoT and web development projects.
+Always exploring Machine Learning, Deep Learning, and Generative AI.
+
+🚀 Currently working on: Waste Wizard – a smart IoT-based waste management system
+🌱 Learning: Cloud computing & backend development 
 
 🌐 **Portfolio:** [arjun-s-portfolio-site.vercel.app](https://arjun-s-portfolio-site.vercel.app/)  
 📧 **Email:** arjunsingh792002@gmail.com  
