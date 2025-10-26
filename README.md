@@ -11,8 +11,6 @@
   <img src="https://raw.githubusercontent.com/Arjunsingh-7/Arjunsingh-7/main/Assets/coding.gif" alt="Coder GIF" width="600"/>
 </p>
 
----
-
 ## 👨‍💻 About Me
 Welcome to my GitHub profile! I am  Arjun Singh — a B.Tech Computer Science student specializing in Artificial Intelligence and Data Science.
 Passionate about building innovative tech solutions that combine software engineering and AI.
@@ -26,7 +24,6 @@ Always exploring Machine Learning, Deep Learning, and Generative AI.
 📧 **Email:** arjunsingh792002@gmail.com  
 💼 **LinkedIn:** [Arjun Singh](https://www.linkedin.com/in/arjun-singh-2519ab280/)  
 
----
 
 ## 🚀 Skills & Technologies
 
@@ -53,8 +50,6 @@ Always exploring Machine Learning, Deep Learning, and Generative AI.
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github) 
 ![Vercel](https://img.shields.io/badge/-Vercel-333333?style=for-the-badge&logo=vercel) 
 
----
-
 ## 🌟 GitHub Stats
 
 <p align="center">
@@ -65,7 +60,6 @@ Always exploring Machine Learning, Deep Learning, and Generative AI.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunsingh-7&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
----
 ## 📊 Contributions & Activity
 
 <div align="center">
@@ -91,11 +85,10 @@ Always exploring Machine Learning, Deep Learning, and Generative AI.
   </div>
 
 </div>
--------
 
 ## 📫 Get in Touch
 
 - **Email:** arjunsingh792002@gmail.com  
 - **LinkedIn:** [Arjun Singh](https://www.linkedin.com/in/arjun-singh-2519ab280/)  
 - **Portfolio:** [arjun-s-portfolio-site.vercel.app](https://arjun-s-portfolio-site.vercel.app/)
-- 
+
