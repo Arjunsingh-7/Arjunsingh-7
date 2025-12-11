@@ -20,7 +20,7 @@ Always exploring Machine Learning, Deep Learning, and Generative AI.
 🚀 Currently working on: Waste Wizard – a smart IoT-based waste management system
 🌱 Learning: Cloud computing & backend development 
 
-🌐 **Portfolio:** [arjun-s-portfolio-site.vercel.app](https://arjun-s-portfolio-site.vercel.app/)  
+🌐 **Portfolio:** [arjun-s-portfolio-site.vercel.app](https://arjunsingh-omega.vercel.app/)  
 📧 **Email:** arjunsingh792002@gmail.com  
 💼 **LinkedIn:** [Arjun Singh](https://www.linkedin.com/in/arjun-singh-2519ab280/)  
 
