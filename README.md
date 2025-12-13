@@ -1,106 +1,98 @@
-<!-- ===================== -->
-<!--  GitHub Profile README -->
-<!-- ===================== -->
-
+<!-- Profile Header -->
 <h1 align="center">Hi, I'm Arjun Singh 👋</h1>
-<h3 align="center">B.Tech CSE (AI & DS) • Full-Stack & AI Enthusiast</h3>
 
-<p align="center"> <img src="https://raw.githubusercontent.com/Arjunsingh-7/Arjunsingh-7/main/Assets/coding.gif.gif" alt="Coder GIF" width="600"/> </p>
-
+<!-- Coding GIF -->
 <p align="center">
-  <!-- Badges -->
-  <img src="https://img.shields.io/badge/Next.js-15-black?style=for-the-badge&logo=next.js" alt="Next.js" />
-  <img src="https://img.shields.io/badge/TypeScript-blue?style=for-the-badge&logo=typescript" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Supabase-Postgres-2bbc8a?style=for-the-badge&logo=supabase" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Stripe-Payments-6a5acd?style=for-the-badge&logo=stripe" alt="Stripe" />
-  <img src="https://img.shields.io/badge/Deployed-Vercel-brightgreen?style=for-the-badge&logo=vercel" alt="Vercel" />
+  <img src="https://raw.githubusercontent.com/Arjunsingh-7/Arjunsingh-7/main/Assets/coding.gif" alt="Coder GIF" width="600"/>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
-I’m **Arjun Singh**, a final-year **B.Tech Computer Science (AI & Data Science)** student who builds production-minded systems — not just prototypes. I focus on **full-stack engineering**, backend APIs, database design, and applied AI.
 
-- 🚀 Building: **Sweet Delights** (Full-stack e-commerce), **Waste Wizard** (IoT waste mgmt)  
-- 🌱 Learning: Cloud architecture, backend systems, scalable deployments  
-- 🎯 Goal: Product-based engineering roles, backend / AI infra
+Welcome to my GitHub profile!  
+I am **Arjun Singh** — a B.Tech Computer Science student specializing in **Artificial Intelligence and Data Science**.
 
-**Portfolio:** https://arjunsingh-omega.vercel.app • **Email:** arjunsingh792002@gmail.com • **LinkedIn:** https://www.linkedin.com/in/arjun-singh-2519ab280/
+Passionate about building innovative tech solutions that combine software engineering and AI.  
+Skilled in **Java, Python, React.js, and MySQL**, with hands-on experience in **IoT and web development projects**.  
+Always exploring **Machine Learning, Deep Learning, and Generative AI**.
 
----
+🚀 **Currently working on:** Waste Wizard – a smart IoT-based waste management system  
+🌱 **Learning:** Cloud computing & backend development  
 
-## 🧾 Quick Links
-[🔗 Live Demo — Sweet Delights](https://sweet-delights-management-system-49.vercel.app/) • [📁 Projects](#projects) • [📄 Resume (PDF)](https://arjunsingh-omega.vercel.app/)  
-
----
-
-## 🔧 Tech & Tools
-<p>
-  <img src="https://img.shields.io/badge/Python-85%25-3776AB?style=flat-square" alt="Python" /> 
-  <img src="https://img.shields.io/badge/Java-75%25-FB8C00?style=flat-square" alt="Java" />
-  <img src="https://img.shields.io/badge/JavaScript-78%25-F0DB4F?style=flat-square" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/React-80%25-61DAFB?style=flat-square" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-82%25-000000?style=flat-square" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Postgres-75%25-336791?style=flat-square" alt="Postgres" />
-  <img src="https://img.shields.io/badge/Supabase-70%25-2bbc8a?style=flat-square" alt="Supabase" />
-  <img src="https://img.shields.io/badge/Stripe-70%25-6a5acd?style=flat-square" alt="Stripe" />
-</p>
+🌐 **Portfolio:** [arjun-s-portfolio-site.vercel.app](https://arjunsingh-omega.vercel.app/)  
+📧 **Email:** arjunsingh792002@gmail.com  
+💼 **LinkedIn:** [Arjun Singh](https://www.linkedin.com/in/arjun-singh-2519ab280/)  
 
 ---
 
-## 🚀 Highlights
-- Built and deployed a **production-ready** full-stack e-commerce platform (Next.js + Supabase + Stripe)
-- Implemented **JWT auth, role-based access control**, transactional inventory updates, and webhook-safe Stripe flows
-- Tested critical paths with **Jest + React Testing Library**
+## 🚀 Skills & Technologies
+
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript)
+
+### Frontend & Web
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/-Next.js-333333?style=for-the-badge&logo=next.js)
+![Django](https://img.shields.io/badge/-Django-333333?style=for-the-badge&logo=django)
+
+### Data & AI
+![NumPy](https://img.shields.io/badge/-NumPy-333333?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=for-the-badge)
+
+### Tools & Platforms
+![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=for-the-badge&logo=visual-studio-code)
+![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github)
+![Vercel](https://img.shields.io/badge/-Vercel-333333?style=for-the-badge&logo=vercel)
 
 ---
 
-## 📌 Projects
-<details>
-  <summary><b>Highlighted projects (click to expand)</b></summary>
+## 🌟 GitHub Stats
 
-### Sweet Delights — Full-Stack E-commerce  
-**Stack:** Next.js, TypeScript, Supabase, Stripe, Tailwind  
-Live: https://sweet-delights-management-system-49.vercel.app/  
-Description: Production-like e-commerce flow with product CRUD, inventory logging, secure Stripe checkout, admin RBAC, and tests.
-
-### Waste Wizard — IoT Waste Management  
-**Stack:** React, Node.js, SQLite / Drizzle, Next.js integration  
-Description: Smart bin monitoring and analytics, real-time dashboard prototype.
-
-</details>
-
----
-
-## 📊 GitHub & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjunsingh-7&show_icons=true&theme=radical" width="420" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunsingh-7&layout=compact&theme=radical" width="300" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjunsingh-7&show_icons=true&theme=radical" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunsingh-7&theme=radical" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Arjunsingh-7&theme=radical" alt="trophies" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunsingh-7&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
 
-## 🔎 Resume & Interview Prep
-You can add a downloadable resume link (PDF) here. If you want, I can craft a 2-line elevator pitch and a 3-minute project walkthrough snippet for each pinned project — good for interviews.
+## 📊 Contributions & Activity
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center" style="padding:10px;">
+      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjunsingh-7&theme=react-dark&area=true" width="400" alt="Activity Graph" />
+      <br><b>Activity Graph</b>
+    </td>
+    <td align="center" style="padding:10px;">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunsingh-7&theme=radical" width="400" alt="GitHub Streak" />
+      <br><b>GitHub Streak</b>
+    </td>
+  </tr>
+</table>
+
+<div style="margin-top:20px;">
+  <img src="https://ghchart.rshah.org/Arjunsingh-7" width="820" alt="Contribution Calendar" />
+  <br><b>Contribution Calendar</b>
+</div>
+
+</div>
 
 ---
 
-## 🤝 Get in Touch
-<p align="center">
-  <a href="mailto:arjunsingh792002@gmail.com"><img src="https://img.shields.io/badge/Email-arjunsingh792002@gmail.com-blue?style=for-the-badge&logo=gmail" /></a>
-  <a href="https://www.linkedin.com/in/arjun-singh-2519ab280/"><img src="https://img.shields.io/badge/LinkedIn-Arjun_Singh-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://arjunsingh-omega.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-0e1116?style=for-the-badge&logo=vercel" /></a>
-</p>
+## 📫 Get in Touch
 
----
-
-*Profile last updated: 2025-12-13*
-
+- **Email:** arjunsingh792002@gmail.com  
+- **LinkedIn:** [Arjun Singh](https://www.linkedin.com/in/arjun-singh-2519ab280/)  
+- **Portfolio:** [arjun-s-portfolio-site.vercel.app](https://arjunsingh-omega.vercel.app/)
