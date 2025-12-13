@@ -3,8 +3,13 @@
 
 <!-- Coding GIF -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arjunsingh-7/Arjunsingh-7/main/Assets/coding.gif" alt="Coder GIF" width="600"/>
+  <img src="https://raw.githubusercontent.com/Arjunsingh-7/Arjunsingh-7/main/Assets/coding.gif" width="600"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Arjunsingh-7&theme=radical" />
+</p>
+
 
 ---
 
