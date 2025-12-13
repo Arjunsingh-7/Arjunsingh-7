@@ -1,95 +1,95 @@
 <!-- Profile Header -->
 <h1 align="center">Hi, I'm Arjun Singh 👋</h1>
-
-<!-- Typing SVG + GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Arjunsingh-7/Arjunsingh-7/main/Assets/coding.gif.gif" alt="Coder GIF" width="600"/>
-</p>
-
+<h3 align="center">B.Tech CSE (AI & DS) | Full-Stack & AI Enthusiast</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Arjunsingh-7/Arjunsingh-7/main/Assets/coding.gif" alt="Coder GIF" width="600"/>
+  <img src="https://raw.githubusercontent.com/Arjunsingh-7/Arjunsingh-7/main/Assets/coding.gif" alt="Coding" width="520"/>
 </p>
+
+---
 
 ## 👨‍💻 About Me
-Welcome to my GitHub profile! I am  Arjun Singh — a B.Tech Computer Science student specializing in Artificial Intelligence and Data Science.
-Passionate about building innovative tech solutions that combine software engineering and AI.
-Skilled in Java, Python, React.js, and MySQL, with hands-on experience in IoT and web development projects.
-Always exploring Machine Learning, Deep Learning, and Generative AI.
 
-🚀 Currently working on: Waste Wizard – a smart IoT-based waste management system
-🌱 Learning: Cloud computing & backend development 
+I’m **Arjun Singh**, a final-year **B.Tech Computer Science student (AI & Data Science)** with a strong interest in building **real-world, production-ready software systems**.
 
-🌐 **Portfolio:** [arjun-s-portfolio-site.vercel.app](https://arjunsingh-omega.vercel.app/)  
-📧 **Email:** arjunsingh792002@gmail.com  
-💼 **LinkedIn:** [Arjun Singh](https://www.linkedin.com/in/arjun-singh-2519ab280/)  
+I enjoy working across the stack — from **frontend UI** to **backend APIs**, **databases**, and **AI-driven logic**.  
+My focus is on **learning by building**, not just tutorials.
 
+- 🔧 Strong foundation in **Java, Python, JavaScript**
+- 🌐 Experience with **React, Next.js, backend APIs**
+- 🤖 Exploring **AI, ML, Deep Learning & Generative AI**
+- 🧠 Interested in **system design & scalable architectures**
+
+🚀 **Currently working on:**  
+**Sweet Delights** (Full-stack e-commerce) & **Waste Wizard** (IoT-based smart waste management)
+
+🌱 **Currently learning:**  
+Backend architecture, cloud deployment & scalable systems
+
+---
+
+## 🌐 Connect With Me
+
+- 🌍 **Portfolio:** https://arjunsingh-omega.vercel.app  
+- 📧 **Email:** arjunsingh792002@gmail.com  
+- 💼 **LinkedIn:** https://www.linkedin.com/in/arjun-singh-2519ab280/
+
+---
 
 ## 🚀 Skills & Technologies
 
-### Programming Languages  
-![Python](https://img.shields.io/badge/-Python-333333?style=for-the-badge&logo=python) 
-![Java](https://img.shields.io/badge/-Java-333333?style=for-the-badge&logo=java) 
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=javascript) 
+### 💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-333333?style=for-the-badge&logo=python)
+![Java](https://img.shields.io/badge/Java-333333?style=for-the-badge&logo=java)
+![JavaScript](https://img.shields.io/badge/JavaScript-333333?style=for-the-badge&logo=javascript)
 
-### Frontend & Web  
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=for-the-badge&logo=html5) 
-![CSS3](https://img.shields.io/badge/-CSS3-333333?style=for-the-badge&logo=css3) 
-![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react) 
-![Next.js](https://img.shields.io/badge/-Next.js-333333?style=for-the-badge&logo=next.js) 
-![Django](https://img.shields.io/badge/-Django-333333?style=for-the-badge&logo=django) 
+### 🌐 Web & Frontend
+![HTML5](https://img.shields.io/badge/HTML5-333333?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-333333?style=for-the-badge&logo=css3)
+![React](https://img.shields.io/badge/React-333333?style=for-the-badge&logo=react)
+![Next.js](https://img.shields.io/badge/Next.js-333333?style=for-the-badge&logo=next.js)
 
-### Data & AI  
-![NumPy](https://img.shields.io/badge/-NumPy-333333?style=for-the-badge&logo=numpy) 
-![Pandas](https://img.shields.io/badge/-Pandas-333333?style=for-the-badge&logo=pandas) 
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-333333?style=for-the-badge) 
+### 🧠 Data, AI & ML
+![NumPy](https://img.shields.io/badge/NumPy-333333?style=for-the-badge&logo=numpy)
+![Pandas](https://img.shields.io/badge/Pandas-333333?style=for-the-badge&logo=pandas)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-333333?style=for-the-badge)
 
-### Tools & Platforms  
-![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=for-the-badge&logo=visual-studio-code) 
-![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git) 
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=for-the-badge&logo=github) 
-![Vercel](https://img.shields.io/badge/-Vercel-333333?style=for-the-badge&logo=vercel) 
+### 🛠️ Tools & Platforms
+![Git](https://img.shields.io/badge/Git-333333?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VS_Code-333333?style=for-the-badge&logo=visual-studio-code)
+![Vercel](https://img.shields.io/badge/Vercel-333333?style=for-the-badge&logo=vercel)
 
-## 🌟 GitHub Stats
+---
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjunsingh-7&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjunsingh-7&show_icons=true&theme=radical" width="420"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunsingh-7&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunsingh-7&layout=compact&theme=radical" width="420"/>
 </p>
 
+---
 
-## 📊 Contributions & Activity
+## 🔥 Activity & Consistency
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunsingh-7&theme=radical" width="420"/>
+</p>
 
-  <!-- Row 1: Heatmap + Streak side by side -->
-  <table>
-    <tr>
-      <td align="center" style="padding:10px;">
-        <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjunsingh-7&theme=react-dark&area=true" width="400" alt="Activity Graph" />
-        <br><b>Activity Graph</b>
-      </td>
-      <td align="center" style="padding:10px;">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunsingh-7&theme=radical" width="400" alt="GitHub Streak" />
-        <br><b>GitHub Streak</b>
-      </td>
-    </tr>
-  </table>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjunsingh-7&theme=react-dark&area=true" width="850"/>
+</p>
 
-  <!-- Row 2: Full-width Contribution Calendar -->
-  <div style="margin-top:20px;">
-    <img src="https://ghchart.rshah.org/Arjunsingh-7" width="820" alt="Contribution Calendar" />
-    <br><b>Contribution Calendar</b>
-  </div>
+---
 
-</div>
+## 📫 Let’s Connect
 
-## 📫 Get in Touch
+If you’re interested in **collaboration, internships, or tech discussions**, feel free to reach out.
 
-- **Email:** arjunsingh792002@gmail.com  
-- **LinkedIn:** [Arjun Singh](https://www.linkedin.com/in/arjun-singh-2519ab280/)  
-- **Portfolio:** [arjun-s-portfolio-site.vercel.app](https://arjunsingh-omega.vercel.app/)
-
+📧 arjunsingh792002@gmail.com  
+💼 LinkedIn: Arjun Singh  
+🌍 Portfolio: arjunsingh-omega.vercel.app
