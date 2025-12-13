@@ -2,13 +2,7 @@
 <h1 align="center">Hi, I'm Arjun Singh 👋</h1>
 
 <!-- Coding GIF -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Arjunsingh-7/Arjunsingh-7/main/Assets/coding.gif" width="600"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Arjunsingh-7&theme=radical" />
-</p>
+<p align="center"> <img src="https://raw.githubusercontent.com/Arjunsingh-7/Arjunsingh-7/main/Assets/coding.gif.gif" alt="Coder GIF" width="600"/> </p>
 
 
 ---
@@ -74,23 +68,16 @@ Always exploring **Machine Learning, Deep Learning, and Generative AI**.
 
 <div align="center">
 
-<table>
-  <tr>
-    <td align="center" style="padding:10px;">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjunsingh-7&theme=react-dark&area=true" width="400" alt="Activity Graph" />
-      <br><b>Activity Graph</b>
-    </td>
-    <td align="center" style="padding:10px;">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunsingh-7&theme=radical" width="400" alt="GitHub Streak" />
-      <br><b>GitHub Streak</b>
-    </td>
-  </tr>
-</table>
+## 📊 Contributions & Activity
 
-<div style="margin-top:20px;">
-  <img src="https://ghchart.rshah.org/Arjunsingh-7" width="820" alt="Contribution Calendar" />
-  <br><b>Contribution Calendar</b>
-</div>
+### 🔥 GitHub Streak
+![GitHub Streak](https://streak-stats.demolab.com/?user=Arjunsingh-7&theme=radical)
+
+### 📈 Activity Graph
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arjunsingh-7&theme=react-dark&area=true)
+
+### 🗓️ Contribution Calendar
+![Contribution Calendar](https://ghchart.rshah.org/Arjunsingh-7)
 
 </div>
 
