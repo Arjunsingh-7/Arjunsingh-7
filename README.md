@@ -67,19 +67,63 @@ Always exploring **Machine Learning, Deep Learning, and Generative AI**.
 
 ## 🌟 GitHub Stats
 
-<p align="center">
+<div align="center">
+  
+  <!-- GitHub Stats Card -->
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=Arjunsingh-7&show_icons=true&theme=radical" 
-    alt="GitHub Stats"
+    src="https://github-readme-stats.vercel.app/api?username=Arjunsingh-7&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" 
+    alt="Arjun's GitHub Stats"
+    height="180em"
   />
-</p>
-
-<p align="center">
+  
+  <!-- Top Languages Card -->
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunsingh-7&layout=compact&theme=radical" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunsingh-7&layout=compact&theme=radical&hide_border=true&langs_count=8" 
     alt="Top Languages"
+    height="180em"
   />
-</p>
+
+</div>
+
+<div align="center">
+  
+  <!-- GitHub Streak Stats -->
+  <img 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunsingh-7&theme=radical&hide_border=true" 
+    alt="GitHub Streak"
+  />
+
+</div>
+
+<div align="center">
+  
+  <!-- Activity Graph - Alternative source -->
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=Arjunsingh-7&theme=react-dark&hide_border=true&area=true" 
+    alt="Contribution Graph"
+  />
+
+</div>
+
+<div align="center">
+  
+  <!-- Profile Trophy -->
+  <img 
+    src="https://github-profile-trophy.vercel.app/?username=Arjunsingh-7&theme=radical&no-frame=true&row=1&column=7" 
+    alt="GitHub Trophies"
+  />
+
+</div>
+
+---
+
+### 📊 Additional Stats
+
+<div align="center">
+
+[![Arjun's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Arjunsingh-7&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)](https://github.com/Arjunsingh-7)
+
+</div>
 
 ---
 
