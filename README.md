@@ -112,7 +112,7 @@ const arjun = {
 ## 🔥 Contribution Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunsingh-7&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com/?user=Arjunsingh-7&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak"/>
 </div>
 
 ---
