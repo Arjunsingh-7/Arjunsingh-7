@@ -109,18 +109,26 @@ const arjun = {
 
 ---
 
-## 🔥 Contribution Streak
+## 📈 Contribution Activity
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Arjunsingh-7&theme=tokyonight&hide_border=true&background=1A1B27" alt="GitHub Streak"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjunsingh-7&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
 </div>
 
 ---
 
-## 📈 Activity Graph
+## 🌊 Contribution Calendar
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjunsingh-7&theme=tokyo-night&hide_border=true&area=true" width="100%" alt="Activity Graph"/>
+  <img src="https://ghchart.rshah.org/58a6ff/Arjunsingh-7" alt="Contribution Calendar" width="100%"/>
+</div>
+
+---
+
+## 📊 Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Arjunsingh-7&theme=tokyonight" alt="Profile Summary" width="100%"/>
 </div>
 
 ---
