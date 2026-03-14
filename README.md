@@ -196,15 +196,13 @@ const arjun = {
 
 ### 🗑️ Waste Wizard
 **Smart IoT-based Waste Management System**  
-`Python` • `IoT` • `Machine Learning` • `Django`
+`Python` • `IoT` • `Machine Learning` • 
 
 ### 💼 Portfolio Website
 **Personal Portfolio & Project Showcase**  
 `React` • `Next.js` • `Tailwind CSS` • `Vercel`
 
-### 📊 Data Analytics Dashboard
-**Interactive Data Visualization Tool**  
-`Python` • `Pandas` • `Matplotlib` • `NumPy`
+
 
 </div>
 
