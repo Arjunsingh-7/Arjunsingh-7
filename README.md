@@ -19,39 +19,10 @@ arjun = {
 
 ---
 
-## 💻 Tech Stack
-
+⚡ Tech Stack
 <div align="center">
-
-### 🐍 Languages
-```
-Python  •  JavaScript  •  Java
-  🐍       ⚡          ☕
-```
-
-### ⚛️ Frontend Development
-```
-React  •  Next.js  •  HTML5  •  CSS3
- ⚛️      ▲        🏗️      🎨
-```
-
-### 🔧 Backend & Database
-```
-Django  •  MySQL
- 🔧      🗄️
-```
-
-### 📊 Data Science & AI
-```
-NumPy  •  Pandas  •  Matplotlib
- 📈      🐼       📊
-```
-
-### 🛠️ Tools & Platforms
-```
-Git  •  GitHub  •  VS Code  •  Vercel
-🔀     🐙       💾        ▲
-```
+  <img src="https://skillicons.dev/icons?i=java,python,js,spring,hibernate,react,html,css,mysql,git,postman,maven,idea&perline=7&theme=dark"/>
+</div>
 
 </div>
 
