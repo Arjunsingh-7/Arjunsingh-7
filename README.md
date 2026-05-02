@@ -3,10 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,28,30&height=200&section=header&text=Arjun%20Singh&fontSize=90&fontAlignY=35&animation=twinkling&fontColor=ffffff" width="100%"/>
 </div>
 
-<!-- Typing Animation -->
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Arjun+Singh;AI+%26+Data+Science+Enthusiast+🤖;Full+Stack+Developer+💻;IoT+%26+ML+Explorer+🚀;Building+Innovative+Solutions+✨" alt="Typing SVG" />
-</div>
+
 
 <br/>
 
@@ -17,8 +14,7 @@
 
 ---
 🧑‍💻 About Me
-<img align="right" src="https://raw.githubusercontent.com/Arjunsingh-7/Arjunsingh-7/main/Assets/coding.gif.gif" width="320"/>
-
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 🎓 B.Tech CSE (AI & Data Science) · AKTU Lucknow · 2026
 📍 Kanpur, Uttar Pradesh, India
 💡 Building scalable backends with Java & Spring Boot
@@ -101,8 +97,6 @@
 ## 🎯 What I'm Working On
 
 <div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1500&color=a78bfa&center=true&vCenter=true&width=620&lines=🔨+Building+Invoice+Processing+System+%28Spring+Boot%29;☁️+Learning+Cloud+Computing+%26+System+Design;🤖+Exploring+Generative+AI+%26+Spring+AI;📦+Diving+into+Microservices+Architecture" alt="Working On"/>
 
 <br/>
 
