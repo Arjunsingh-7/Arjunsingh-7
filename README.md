@@ -76,8 +76,6 @@ Git  •  GitHub  •  VS Code  •  Vercel
       <p><strong>Advanced Dashboard</strong></p>
       <p>Analytics & waste tracking system</p>
       <p><a href="https://smartwastesite.vercel.app/"><strong>→ Visit Live</strong></a></p>
-    
-    </td>
   </tr>
   <tr>
     <td align="center" width="50%">
