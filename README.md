@@ -68,7 +68,6 @@ Git  •  GitHub  •  VS Code  •  Vercel
       <p><strong>Smart IoT Waste Management</strong></p>
       <p>Real-time monitoring & ML predictions</p>
       <p><a href="https://wastewizard.vercel.app/"><strong>→ Visit Live</strong></a></p>
-      <p>Python • IoT • ML • React</p>
     </td>
     <td align="center" width="50%">
       <img src="https://media.giphy.com/media/3o6Zt6KHxJTbXCnSvu/giphy.gif" width="200" alt="Project 2"/>
@@ -77,7 +76,7 @@ Git  •  GitHub  •  VS Code  •  Vercel
       <p><strong>Advanced Dashboard</strong></p>
       <p>Analytics & waste tracking system</p>
       <p><a href="https://smartwastesite.vercel.app/"><strong>→ Visit Live</strong></a></p>
-      <p>Next.js • Django • MySQL</p>
+    
     </td>
   </tr>
   <tr>
@@ -90,32 +89,11 @@ Git  •  GitHub  •  VS Code  •  Vercel
       <p><a href="https://teamflow-manager.vercel.app/signup"><strong>→ Visit Live</strong></a></p>
       <p>React • Django • Real-time</p>
     </td>
-    <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/RhMjECyOcFDzVRoVeC/giphy.gif" width="200" alt="Project 4"/>
-      <br/>
-      <h3>🍰 Sweet Delights</h3>
-      <p><strong>Business Management</strong></p>
-      <p>Food service operations system</p>
-      <p><a href="https://sweet-delights-management-system-49.vercel.app/"><strong>→ Visit Live</strong></a></p>
-      <p>Full Stack • React • Django</p>
-    </td>
-  </tr>
+   
 </table>
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arjunsingh-7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" alt="Arjun's GitHub Stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunsingh-7&layout=compact&langs_count=7&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjunsingh-7&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph" width="100%"/>
-</p>
-
----
 
 ## 🌐 Connect With Me
 
