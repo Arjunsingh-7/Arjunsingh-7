@@ -19,36 +19,39 @@ arjun = {
 
 ---
 
-## 💻 Tech Stack - Interactive View
+## 💻 Tech Stack
 
 <div align="center">
 
-**[Click here to see animated tech stack →](https://your-github-username.github.io/tech-stack-animated.html)**
+### 🐍 Languages
+```
+Python  •  JavaScript  •  Java
+  🐍       ⚡          ☕
+```
 
-### Languages
-| Python | JavaScript | Java |
-|:------:|:----------:|:----:|
-| 🐍 | ⚡ | ☕ |
+### ⚛️ Frontend Development
+```
+React  •  Next.js  •  HTML5  •  CSS3
+ ⚛️      ▲        🏗️      🎨
+```
 
-### Frontend
-| React | Next.js | HTML5 | CSS3 |
-|:-----:|:-------:|:-----:|:----:|
-| ⚛️ | ▲ | 🏗️ | 🎨 |
+### 🔧 Backend & Database
+```
+Django  •  MySQL
+ 🔧      🗄️
+```
 
-### Backend & Database
-| Django | MySQL |
-|:------:|:-----:|
-| 🔧 | 🗄️ |
+### 📊 Data Science & AI
+```
+NumPy  •  Pandas  •  Matplotlib
+ 📈      🐼       📊
+```
 
-### Data Science & AI
-| NumPy | Pandas | Matplotlib |
-|:-----:|:-------:|:----------:|
-| 📈 | 🐼 | 📊 |
-
-### Tools & Platforms
-| Git | GitHub | VS Code | Vercel |
-|:---:|:------:|:-------:|:------:|
-| 🔀 | 🐙 | 💾 | ▲ |
+### 🛠️ Tools & Platforms
+```
+Git  •  GitHub  •  VS Code  •  Vercel
+🔀     🐙       💾        ▲
+```
 
 </div>
 
@@ -103,19 +106,14 @@ arjun = {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arjunsingh-7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false" alt="Arjun's GitHub Stats" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunsingh-7&layout=compact&langs_count=7&theme=tokyonight&hide_border=false" alt="Top Languages" width="48%"/>
+</p>
 
-#### Total Contributions & Languages
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Arjunsingh-7&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&width=500)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Arjunsingh-7&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&width=500)
-
-#### Activity Graph
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Arjunsingh-7&theme=tokyo-night&hide_border=true&area=true)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjunsingh-7&theme=tokyo-night&hide_border=false&area=true" alt="Contribution Graph" width="100%"/>
+</p>
 
 ---
 
