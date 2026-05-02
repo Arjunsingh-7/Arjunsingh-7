@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Arjun%20Singh&fontSize=72&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Backend%20Engineer%20·%20AI%20%26%20Data%20Science%20·%20IoT%20Builder&descSize=16&descColor=c4b5fd&descAlignY=58" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:2d1b69,100:0d0221&height=200&section=header&text=Arjun%20Singh&fontSize=78&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Backend%20Engineer%20%E2%80%A2%20AI%20%26%20Data%20Science%20%E2%80%A2%20IoT%20Builder&descSize=17&descColor=c4b5fd&descAlignY=62" width="100%"/>
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=☕+Java+%26+Spring+Boot+Developer;🤖+AI+%26+Data+Science+Explorer;🌐+IoT+%2B+Full+Stack+Engineer;🚀+Always+Shipping%2C+Always+Learning" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=☕+Java+%26+Spring+Boot+Developer;🤖+AI+%26+Data+Science+Explorer;🌐+IoT+%2B+Full+Stack+Engineer;🚀+Always+Shipping%2C+Always+Learning" alt="Typing SVG"/>
 </div>
 
 <br/>
@@ -18,7 +18,7 @@
 - 📍 Kanpur, Uttar Pradesh, India
 - 💡 Building scalable backends with **Java & Spring Boot**
 - 🤖 Exploring **Spring AI** & Generative AI
-- 🌱 Currently learning: **Cloud Computing · System Design**
+- 🌱 Learning: **Cloud Computing · System Design**
 - 📬 arjunsingh792002@gmail.com
 
 <br clear="right"/>
@@ -81,7 +81,17 @@
 ## 🎯 What I'm Working On
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=14&pause=1500&color=a78bfa&center=true&vCenter=true&width=600&lines=🔨+Invoice+Processing+System+(Spring+Boot);☁️+Learning+Cloud+Computing+%26+System+Design;🤖+Exploring+Generative+AI+%26+Spring+AI" alt="Working On"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1500&color=a78bfa&center=true&vCenter=true&width=620&lines=🔨+Building+Invoice+Processing+System+%28Spring+Boot%29;☁️+Learning+Cloud+Computing+%26+System+Design;🤖+Exploring+Generative+AI+%26+Spring+AI;📦+Diving+into+Microservices+Architecture" alt="Working On"/>
+
+<br/>
+
+| 🔨 Building | 📖 Learning | 🔭 Exploring |
+|:-----------:|:-----------:|:------------:|
+| Invoice Processing System | Cloud Computing | Generative AI |
+| Spring Boot Microservices | System Design | Spring AI |
+| Full Stack Web Apps | Backend Architecture | Deep Learning |
+
 </div>
 
 ---
@@ -89,13 +99,36 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Arjunsingh-7&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
-  &nbsp;
-  <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunsingh-7&hide_border=true&background=0d1117&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=a78bfa&sideNums=ffffff&currStreakNum=ffffff&dates=888888"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arjunsingh-7&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+&nbsp;
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunsingh-7&hide_border=true&background=0d1117&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=a78bfa&sideNums=ffffff&currStreakNum=ffffff&dates=888888"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjunsingh-7&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff" width="100%"/>
+
 </div>
 
+---
+
+## ⚡ Developer Facts
+
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjunsingh-7&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff" width="100%"/>
+
+```java
+// Random facts about me
+String[] facts = {
+  "🧠 I debug code faster with coffee ☕",
+  "🌙 My best code is written after midnight",
+  "🔁 I've rewritten the same function 5 times (and counting)",
+  "📖 I read Stack Overflow more than novels",
+  "🏆 700+ problems solved across coding platforms",
+  "🤖 I believe AI + good architecture = unstoppable",
+  "🌱 Learning something new every single day"
+};
+```
+
 </div>
 
 ---
@@ -112,10 +145,14 @@
 &nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arjunsingh-7)
 
+<br/>
+
+_**"First, solve the problem. Then, write the code."**_
+
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:2d1b69,100:0d0221&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
