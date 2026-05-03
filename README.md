@@ -1,12 +1,4 @@
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=☕+Java+%26+Spring+Boot+Developer;🤖+AI+%26+Data+Science+Explorer;🌐+IoT+%2B+Full+Stack+Engineer;🚀+Always+Shipping%2C+Always+Learning" alt="Typing SVG"/>
-</div>
-
-<br/>
-
----
-
 ## 🧑‍💻 About Me
 
 <img align="right" src="https://raw.githubusercontent.com/Arjunsingh-7/Arjunsingh-7/main/Assets/coding.gif.gif" width="320"/>
