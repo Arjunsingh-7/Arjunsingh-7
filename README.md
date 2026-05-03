@@ -1,90 +1,158 @@
-# Hi 👋, I'm Arjun Singh
-
-**AI & Data Science Enthusiast | Full Stack Developer | IoT Explorer**
-
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Arjunsingh-7/Arjunsingh-7/main/Assets/coding.gif.gif" alt="Coding Animation" width="320"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:2d1b69,100:0d0221&height=200&section=header&text=Arjun%20Singh&fontSize=78&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Backend%20Engineer%20%E2%80%A2%20AI%20%26%20Data%20Science%20%E2%80%A2%20IoT%20Builder&descSize=17&descColor=c4b5fd&descAlignY=62" width="100%"/>
 </div>
 
-```python
-# Quick intro
-arjun = {
-    "location": "Kanpur, Uttar Pradesh 🇮🇳",
-    "education": "B.Tech CSE Student",
-    "passion": "Building innovative tech solutions",
-    "current_focus": "Cloud Computing & ML",
-    "available_for": "collaborations & exciting projects"
-}
-```
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=620&lines=☕+Java+%26+Spring+Boot+Developer;🤖+AI+%26+Data+Science+Explorer;🌐+IoT+%2B+Full+Stack+Engineer;🚀+Always+Shipping%2C+Always+Learning" alt="Typing SVG"/>
+</div>
+
+<br/>
 
 ---
 
-⚡ Tech Stack
+## 🧑‍💻 About Me
+
+<img align="right" src="https://raw.githubusercontent.com/Arjunsingh-7/Arjunsingh-7/main/Assets/coding.gif.gif" width="320"/>
+
+- 🎓 **B.Tech CSE** (AI & Data Science) · AKTU Lucknow · 2026
+- 📍 Kanpur, Uttar Pradesh, India
+- 💡 Building scalable backends with **Java & Spring Boot**
+- 🤖 Exploring **Spring AI** & Generative AI
+- 🌱 Learning: **Cloud Computing · System Design**
+- 📬 arjunsingh792002@gmail.com
+
+<br clear="right"/>
+
+---
+
+## ⚡ Tech Stack
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java,python,js,spring,hibernate,react,html,css,mysql,git,postman,maven,idea&perline=7&theme=dark"/>
 </div>
 
+---
+
+## 🚀 Deployed Projects
+
+<div align="center">
+
+| Project | Stack | Live |
+|:--------|:-----:|:----:|
+| 🧾 **Invoice Processing System** | Java · Spring Boot · JPA · MySQL · React | 🔨 In Dev |
+| ♻️ **Waste Wizard v1** | Arduino · GSM · React · Next.js | [![Live](https://img.shields.io/badge/Live-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://wastewizard.vercel.app/) |
+| ♻️ **Waste Wizard v2** | Arduino · GSM · React · Next.js | [![Live](https://img.shields.io/badge/Live-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://smartwastesite.vercel.app/) |
+| 📚 **Library Management System** | Java · Spring Boot · MySQL | [![GitHub](https://img.shields.io/badge/Repo-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Arjunsingh-7) |
+| 👥 **TeamFlow Manager** | React · Full Stack | [![Live](https://img.shields.io/badge/Live-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://teamflow-manager.vercel.app/signup) |
+| 🍬 **Sweet Delights System** | React · Full Stack | [![Live](https://img.shields.io/badge/Live-7c3aed?style=flat-square&logo=vercel&logoColor=white)](https://sweet-delights-management-system-49.vercel.app/) |
+
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 🏆 Coding Profiles
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/SWoRKslHVtqjvwlV5e/giphy.gif" width="200" alt="Project 1"/>
-      <br/>
-      <h3>🗑️ Waste Wizard</h3>
-      <p><strong>Smart IoT Waste Management</strong></p>
-      <p>Real-time monitoring & ML predictions</p>
-      <p><a href="https://wastewizard.vercel.app/"><strong>→ Visit Live</strong></a></p>
-    </td>
-    <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/3o6Zt6KHxJTbXCnSvu/giphy.gif" width="200" alt="Project 2"/>
-      <br/>
-      <h3>♻️ Smart Waste Site</h3>
-      <p><strong>Advanced Dashboard</strong></p>
-      <p>Analytics & waste tracking system</p>
-      <p><a href="https://smartwastesite.vercel.app/"><strong>→ Visit Live</strong></a></p>
-  </tr>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://media.giphy.com/media/l0HlDtKyaVjyOr83m/giphy.gif" width="200" alt="Project 3"/>
-      <br/>
-      <h3>⚙️ TeamFlow Manager</h3>
-      <p><strong>Project Management Tool</strong></p>
-      <p>Collaborative task & team management</p>
-      <p><a href="https://teamflow-manager.vercel.app/signup"><strong>→ Visit Live</strong></a></p>
-      <p>React • Django • Real-time</p>
-    </td>
-   
-</table>
+<div align="center">
+
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-⭐⭐⭐%20·%20400%2B%20Problems%20·%20Score%201248-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/)
+&nbsp;
+[![LC](https://img.shields.io/badge/LeetCode-150%2B%20Problems%20·%20Weekly%20Contests-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/)
+&nbsp;
+[![HR](https://img.shields.io/badge/HackerRank-150%2B%20Problems%20·%20Score%20700-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/)
+
+</div>
 
 ---
 
+## 🏅 Certifications
+
+<div align="center">
+
+| Issuer | Certification |
+|:------:|:-------------|
+| 🛒 **Walmart Global Tech** | Virtual Experience — Software Engineering Simulation · Forage · Oct 2025 |
+| 🎓 **Udemy** | Python For Beginners · Java OOPs Concepts |
+| 💼 **Infosys** | HTML · CSS · JavaScript · Python |
+
+</div>
+
+---
+
+## 🎯 What I'm Working On
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=15&pause=1500&color=a78bfa&center=true&vCenter=true&width=620&lines=🔨+Building+Invoice+Processing+System+%28Spring+Boot%29;☁️+Learning+Cloud+Computing+%26+System+Design;🤖+Exploring+Generative+AI+%26+Spring+AI;📦+Diving+into+Microservices+Architecture" alt="Working On"/>
+
+<br/>
+
+| 🔨 Building | 📖 Learning | 🔭 Exploring |
+|:-----------:|:-----------:|:------------:|
+| Invoice Processing System | Cloud Computing | Generative AI |
+| Spring Boot Microservices | System Design | Spring AI |
+| Full Stack Web Apps | Backend Architecture | Deep Learning |
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Arjunsingh-7&show_icons=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=7c3aed&text_color=c9d1d9&include_all_commits=true&count_private=true"/>
+&nbsp;
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=Arjunsingh-7&hide_border=true&background=0d1117&ring=a78bfa&fire=7c3aed&currStreakLabel=a78bfa&sideLabels=a78bfa&sideNums=ffffff&currStreakNum=ffffff&dates=888888"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Arjunsingh-7&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff" width="100%"/>
+
+</div>
+
+---
+
+## ⚡ Developer Facts
+
+<div align="center">
+
+```java
+// Random facts about me
+String[] facts = {
+  "🧠 I debug code faster with coffee ☕",
+  "🌙 My best code is written after midnight",
+  "🔁 I've rewritten the same function 5 times (and counting)",
+  "📖 I read Stack Overflow more than novels",
+  "🏆 700+ problems solved across coding platforms",
+  "🤖 I believe AI + good architecture = unstoppable",
+  "🌱 Learning something new every single day"
+};
+```
+
+</div>
+
+---
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arjun-singh-2519ab280/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://arjunsingh-omega.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunsingh792002@gmail.com)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=vercel&logoColor=white)](https://arjunsingh-omega.vercel.app/)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arjunsingh792002@gmail.com)
+&nbsp;
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Arjunsingh-7)
 
-**📧 Email:** arjunsingh792002@gmail.com  
-**🌐 Portfolio:** [arjunsingh-omega.vercel.app](https://arjunsingh-omega.vercel.app/)  
-**💼 LinkedIn:** [Arjun Singh](https://www.linkedin.com/in/arjun-singh-2519ab280/)
+<br/>
+
+_**"First, solve the problem. Then, write the code."**_
 
 </div>
 
 ---
 
 <div align="center">
-
-### ⭐ Star my repositories if you find them useful!
-### 🤝 Open to collaborations and exciting projects!
-### ☕ Let's build something amazing together!
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,50:2d1b69,100:0d0221&height=120&section=footer&animation=twinkling" width="100%"/>
 </div>
