@@ -1,31 +1,4 @@
-<!-- ╔═══════════════════════════════════════════════════════╗ -->
-<!--         ARJUN SINGH — GITHUB PROFILE README            -->
-<!-- ╚═══════════════════════════════════════════════════════╝ -->
 
-<!-- ═══ HEADER ═══ -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=shark&color=0:6a0dad,50:4b0082,100:0d0221&height=220&section=header&text=Arjun%20Singh&fontSize=80&fontColor=ffffff&animation=fadeIn&fontAlignY=50&desc=Backend%20Engineer%20%7C%20AI%20%26%20Data%20Science%20%7C%20IoT%20Builder&descSize=18&descColor=d8b4fe&descAlignY=75" width="100%"/>
-</div>
-
-<!-- ═══ TYPING SVG ═══ -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=👋+Hi%2C+I'm+Arjun+Singh!;☕+Java+%26+Spring+Boot+Developer;🤖+AI+%26+Data+Science+Explorer;🌐+Full+Stack+%2B+IoT+Engineer;🚀+Always+Shipping%2C+Always+Learning!" alt="Typing SVG"/>
-</div>
-
-<br/>
-
-<!-- ═══ BADGES ═══ -->
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Arjunsingh-7&label=Profile+Views&color=6a0dad&style=for-the-badge"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/Arjunsingh-7?label=Followers&style=for-the-badge&color=6a0dad&logo=github&logoColor=white"/>
-  &nbsp;
-  <img src="https://img.shields.io/badge/Open%20to%20Opportunities-✅-6a0dad?style=for-the-badge"/>
-</div>
-
-<br/>
-
----
 
 <!-- ═══ GIF + ABOUT ME ═══ -->
 ## 🧑‍💻 About Me
@@ -155,7 +128,6 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1500&color=a78bfa&center=true&vCenter=true&width=650&lines=🔨+Building+Invoice+Processing+System+%28Spring+Boot%29;☁️+Learning+Cloud+Computing+%26+Microservices;🤖+Exploring+Generative+AI+%26+Spring+AI;📦+Deep+diving+into+System+Design+Patterns" alt="Working On"/>
 
 <br/>
 
@@ -203,17 +175,6 @@
 </div>
 
 ---
-
-<!-- ═══ SNAKE ═══ -->
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Arjunsingh-7/Arjunsingh-7/output/github-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Arjunsingh-7/Arjunsingh-7/output/github-snake.svg"/>
-    <img alt="contribution snake" src="https://raw.githubusercontent.com/Arjunsingh-7/Arjunsingh-7/output/github-snake-dark.svg" width="100%"/>
-  </picture>
-</div>
 
 > 💡 Enable: Go to **Actions** tab in your profile repo → enable **Generate Snake** workflow → run it once
 
